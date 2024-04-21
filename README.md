@@ -1,2 +1,2 @@
 # homework
- a website containing my porfolio
+ A website containing my porfolio
